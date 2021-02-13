@@ -1,0 +1,8 @@
+## Logic of The game
+
+# draw The canvas
+# Load Audio Files
+# Load Background of the game, the bird as well.
+# Create pipes
+# Animate pipes
+# Bird Controls
